@@ -21,6 +21,7 @@ steps to initialize webpage
 
 -then open right click and copy path then paste into a browser and press enter 
 or use this url
+https://ejasato.github.io/challenge.-3/
 
 
 ## Usage
